@@ -1,0 +1,182 @@
+*.menu {
+	padding: 0;
+	}
+.menu li
+     {
+     	display: inline;
+     }
+.menu li a
+     {
+     	font-family: Arial;
+         font-size: 11px;
+         text-decoration: none;
+         float:center;
+         padding: 10px;
+         background-color: #2175bc;
+         color: #fff;
+      }
+.menu li a:hover
+     {
+     	cursor:url(.Informática/johndeere.png), auto;
+     	background-color: green;
+         margin-top: -2;
+         padding-bottom: 12px;
+     }
+table
+     {
+     	border: #cc0b30 1px solid;
+     }
+     td, th
+     {
+     	border: green 1px solid;
+     }
+body, html
+     {
+     	background-image: url(./images/xdd.png);
+         background-repeat: no-repeat;
+         background-attachment: fixed;
+         background-position: center center;
+         background-size: cover;
+     }
+body{
+	background-color: write;
+	text-algin: center;
+	}
+	h1{
+		font-family: arial,helvetica,sans-serif;
+		color:Black;
+		font-size: 40px;
+	  text-align: center;
+	}
+	h2{
+		font-family: "times new roman", times, serif;
+		color: #252850;
+		font-size: 30px;
+	  text-align: center;
+		}
+		h3{
+		font-family: georgia, "times new roman", times, serif;
+		color: green;
+		font-size: 25px;
+		  text-align: center;
+		}
+		p{
+		font-family: cursive;
+		color: white;
+		font-size: 20px;
+		  text-align: center;
+		}
+  
+body, html
+	{
+    background-color: #FFE699;
+    }
+#contenedor {
+	width: 100%;
+	margin: auto;
+	padding: 5px;
+	}
+header
+    {
+    background-image: url(./images/o.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    width: 130%;
+    height: 20em;
+    background-color: gn;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    padding-top: 20px;
+    text-algin: center;
+    color: #fff
+    }
+nav
+   {
+    width: 130%;
+    height: 2em;
+    background-color: #3f888f;
+    text-algin: center;
+    color: #fff
+    }
+section
+    {
+    width: 130%;
+    height: 73em;
+    background-color: #009c8c;
+    border-radius: 10px;
+    padding-top: 20px;
+    text-algin: center;
+    color: #fff
+    }
+article
+    {
+    background-image: url(./images/milpa1.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    width: 70%;
+    height: 72em;
+    background-color: lightblue;
+    border-radius: 10px;
+    padding-top: 1px;
+    text-algin: center;
+    color: #fff;
+    float: left;
+    }
+aside
+    {
+    background-image: url(./images/oo.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    width: 28%;
+    height: 28em;
+    background-color: #008f39;
+    border-radius: 10px;
+    padding-top: 1px;
+    margin: 1px;
+    text-algin: center;
+    color: #fff;
+    float:right;
+    }
+footer
+    {
+    background-image: url(./images/ooo.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    width: 130%;
+    height: 9.5em;
+    background-color: #000;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    padding-top: 10px;
+    text-algin: center;
+    color: #fff
+    }
+  h1{
+		font-family: arial,helvetica,sans-serif;
+		color: white;
+		font-size: 40px;
+	}
+	h2{
+		font-family: "times new roman", times, serif;
+		color: #489950;
+		font-size: 30px;
+		}
+		h3{
+		font-family: georgia, "times new roman", times, serif;
+		color: #004737;
+		font-size: 25px;
+		}
+		p{
+		font-family: cursive;
+		color: red;
+		font-size: 25px;
+		}
+
